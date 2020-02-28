@@ -1,3 +1,4 @@
 # pages
-Basic home/about page webapp built using Django (tutorial)</br>
-[Live demo (deployed on Heroku)](https://still-brook-48052.herokuapp.com/)
+Basic home/about page webapp.</br>
+Built using Django and deployed using Gunicorn (webserver) and Heroku (platform).</br>
+[Live demo](https://still-brook-48052.herokuapp.com/)
